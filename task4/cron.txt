@@ -1,0 +1,3 @@
+0 * * * *  python3  /scb/app.py data.json
+
+# The above command will run the app.py file every hour to update the database with the latest data.
